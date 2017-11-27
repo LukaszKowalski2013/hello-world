@@ -1,0 +1,23 @@
+lista:
+future investment:
+civic and public
+commercial and retail
+residential
+opportunity areas (https://maps.london.gov.uk/ima/, https://www.london.gov.uk/sites/default/files/london_strategic_infrastructure_requirements_2017_1.pdf , 
+
+transport projects: transport
+crosstrail projects: 1 2 
+
+London Consumer Expenditure Estimates 2011-2036:
+https://data.london.gov.uk/dataset/london-consumer-expenditure-estimates-2011-2036
+
+London Plan 2015 Maps and Figures
+https://data.london.gov.uk/dataset/london-plan-2015-maps
+
+London Plan Opportunity Areas
+Opportunity Areas are London’s major source of brownfield land with significant capacity for new housing, commercial and other development linked to existing or potential improvements to public transport accessibility. Typically they can accommodate at least 5,000 jobs or 2,500 new homes or a combination of the two, along with other supporting facilities and infrastructure.
+The Opportunity Area Planning Frameworks report sets out the background and other information including current progress on Opportunity Area Planning Frameworks.
+https://data.london.gov.uk/dataset/london-plan-opportunity-areas - shapefiles
+
+https://open.barnet.gov.uk/dataset/transport-for-london---open-data
+
