@@ -41,7 +41,7 @@ for day in range (24, 31):
         day = time.gmtime(mytime).tm_mday
         hour = time.gmtime(mytime).tm_hour
 
-        s+= str(js['hourly']['data'][i]['time'])+ ", " + str(js['hourly']['data'][i]['apparentTemperature'])+", "+ str(js['hourly']['data'][i]['precipType'])+", " + str(js['hourly']['data'][i]['icon'])+str(js['hourly']['data'][i]['humidity'])+", "+ str(js['hourly']['data'][i]['windSpeed']) + "\n"
+        s+= str(js['hourly']['data'][i]['time'])+ ", " + str(js['hourly']['data'][i]['apparentTemperature'])+", "+ str(js['hourly']['data'][i]['precipType'])+", " + str(js['hourly']['data'][i]['icon'])+ "," + str(js['hourly']['data'][i]['humidity'])+", "+ str(js['hourly']['data'][i]['windSpeed']) + "\n"
 
 stringToWrite = s
 myOutputMatrix.write(stringToWrite)
